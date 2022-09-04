@@ -1,6 +1,6 @@
 ---
 title: "My New Post"
-author: "Harlow Malloc"
+author: "Cosme Sanchez"
 date: "2022-09-04"
 categories: [thoughts]
 image: "Aldan.jpg"
